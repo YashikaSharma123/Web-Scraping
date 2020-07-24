@@ -1,7 +1,8 @@
-# Web-Scraping
+# Web-Scraping                             
+
 #### Web Scraping, Web Data Extraction technique used to extract large amounts of data from "yahoo.com" website page whereby the data extracte and saved to a local file or to a database in table (spreadsheet) format.
 
-### In this, mainly to extract data from **" yahoo.com "** page :
+### Extracting data from **" yahoo.com "** main page :
 
 Use the API of the website (if it exists). For example, Yahoo has the Yahoo Graph API which allows retrieval of data posted on **"yahoo page"**.
 Access the HTML of the webpage and extract useful information/data from it. This technique is called web scraping or web harvesting or web data extraction.
